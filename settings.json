@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SHRESTHA0123.aternos.me"
+    "ip": "SHRESTHA0123.aternos.me",
     "port": 26678,
     "version": "1.21.1"
   },
